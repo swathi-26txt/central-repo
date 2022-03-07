@@ -1,3 +1,7 @@
+iphone
+apple
+samsung
+nokia
 redmi
 oppo
 spice

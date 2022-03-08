@@ -1,11 +1,9 @@
-<<<<<<< HEAD
+
 i phone
 apple
 samsung
 nokia
-=======
 redmi
 oppo
 spice
 
->>>>>>> br4
